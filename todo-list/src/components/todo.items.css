@@ -1,0 +1,27 @@
+.list {
+    display: flex;
+    justify-content: space-between;
+    background-color: none;
+    color: #fff;
+    padding: 12px 16px;
+    font-size: 22px;
+    border-radius: 5px;
+    border: 1px solid #efefef;
+    list-style: none;
+    width: 81%
+}
+
+.icon {
+    margin: 4px;
+    font-size: large;
+    cursor: pointer;
+    transition: 0.1s;
+}
+
+.icon i:hover {
+    transform: scale(1.2);
+}
+
+.icon-delete:hover {
+    color: rgb(255, 0, 0);
+}

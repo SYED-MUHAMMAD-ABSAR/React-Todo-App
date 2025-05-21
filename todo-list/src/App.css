@@ -1,0 +1,20 @@
+.m-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.a-heading {
+  padding: 10px;
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+  text-transform: uppercase;
+}
+
+.c-container {
+  height: 500px;
+  width: 350px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
